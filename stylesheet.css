@@ -42,9 +42,12 @@ header{
 
 
 .header-left{
-  color:white;
+  width:170px;
+  margin-top:7px;
   float:left;
 }
+
+
 
 .header-right{
   float:right;
@@ -277,14 +280,13 @@ footer{
 }
 
 .footer-logo {
-  font-weight: bold;
-  font-size:16px;
-  padding-bottom: 5px;
+  width:130px;
+  padding-bottom: 2px;
 }
 
 .english-text{
   font-size: 12px;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 }

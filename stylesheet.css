@@ -8,6 +8,10 @@ body {
   font-family:"A1ゴシック R","FB Benton Sans Medium","こぶりなゴシック W3 JIS2004","FB Benton Sans Book"/* "DNP 秀英角ゴシック銀 Std", sans-serif;*/
 }
 
+p{
+  font-family:"こぶりなゴシック W3 JIS2004","FB Benton Sans Book"
+}
+
 a {
   text-decoration: none;
 }

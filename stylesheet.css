@@ -8,13 +8,13 @@ body {
   /*font-family:"A1ゴシック R";*/
 }
 
-h1, h2, h3, h4, h5, a{
-  font-family: "A1ゴシック R";
+h1, h2, h3, h4, h5, h6, a{
+  font-family: "FB Benton Sans Medium" "A1ゴシック R";
 }
 
-h6{
+/*h6{
   font-family: "FB Benton Sans Medium";
-}
+}*/
 
 p{
   font-family: "Koburina Gothic W3 JIS2004";

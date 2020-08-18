@@ -5,8 +5,21 @@
 
 body {
   margin: 0;
-  font-family:"A1ゴシック R","FB Benton Sans Medium";
+  /*font-family:"A1ゴシック R";*/
 }
+
+h1, h2, h3, h4, h5, a{
+  font-family: "A1ゴシック R";
+}
+
+h6{
+  font-family: "FB Benton Sans Medium";
+}
+
+p{
+  font-family: "Koburina Gothic W3 JIS2004";
+}
+
 
 
 a {
@@ -132,7 +145,7 @@ header{
   padding: 10px 40px;
   color: rgb(60,179,113);
   font-size: 16px;
-  font-weight: bold;
+  font-weight:bold;
   letter-spacing:0.5em;
   text-indent:0.5em;
   display: inline-block;
@@ -289,5 +302,8 @@ footer{
   font-size: 12px;
   font-weight: normal;
 }
+
+
+
 
 }

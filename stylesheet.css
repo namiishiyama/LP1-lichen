@@ -3,14 +3,12 @@
   box-sizing: border-box;
 }
 
-
-
-/*
 body {
   margin: 0;
   font-family:"A1ゴシック R";
 }
-*/
+
+/*
 
 h1, h2, h3, h4, h5, h6, a{
   font-family: "FB Benton Sans Medium" "A1ゴシック R";
@@ -19,7 +17,7 @@ h1, h2, h3, h4, h5, h6, a{
 p{
   font-family: "FB Benton Sans Book" "Koburina Gothic W3 JIS2004";
 }
-
+*/
 
 a {
   text-decoration: none;
